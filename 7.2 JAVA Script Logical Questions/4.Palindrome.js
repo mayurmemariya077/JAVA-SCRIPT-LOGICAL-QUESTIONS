@@ -6,5 +6,5 @@ const isPalindrome = (str) => {
   return str === reversed;
 };
 
-console.log(isPalindrome("madam"));
+console.log(isPalindrome("mayalayam"));
 console.log(isPalindrome("hello")); 
